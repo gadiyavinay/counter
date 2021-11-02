@@ -1,7 +1,7 @@
 # Counter assignment
-1. Create new Counter(s)\
-2. Increment a named counter by 1\
-3. Get a current value of a counter\
+1. Create new Counter(s)
+2. Increment a named counter by 1
+3. Get a current value of a counter
 4. Get a list of all counters and their current values
 
 ## Clone project
