@@ -10,6 +10,6 @@ https://github.com/gadiyavinay/counter.git
 ## Create database in mysql with below query
 create database counter_db;
 
-## Run Java Code with below commands in terminal at project folder path
+## Run Java Code with below commands in terminal at project root path
 gradle clean build\
 gradle run
