@@ -11,5 +11,5 @@ https://github.com/gadiyavinay/counter.git
 create database counter_db;
 
 ## Run Java Code with below commands in terminal at project folder path
-./gradlew clean build\
-./gradlew run
+gradle clean build\
+gradle run
